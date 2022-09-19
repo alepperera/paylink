@@ -2,18 +2,18 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Alejandro Pérez Perera",
+    "description": "Médico|Startups|Negocios|Crypto|NoCode|Marketing|Ecommerce",
+    "alt": "Photo of Alejandro Perez Perera",
+    "hero": "./images/alejandro-profile.jpg"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "https://mmm.page/alepperera" },
+    { "label": "GitHub", "type": "github", "link": "" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/AlePerezPerera" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "https://www.linkedin.com/in/alejandro-p%C3%A9rez-70897419a/" },
+    { "label": "Instagram", "type": "instagram", "link": "" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
     { "label": "Medium", "type": "medium", "link": "" },
@@ -32,7 +32,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "bc1q3tx4gxhw6dg4cl54km33h5cg5lz36vhhzq2gc860dhnqrn648wksr9hqse",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -56,7 +56,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "0x6768268c2A42aDa5Bfe3F8d4741b09D2150F9f72",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -74,13 +74,13 @@
     {
       "id": "usdt",
       "label": "USDT",
-      "value": "",
+      "value": "TUdvs4AyeBe8hcK5yhWfdmx1gnhgADQUP6",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/vivencrypto",
       "img": "./images/payments/qvapay.svg"
     },
     {
